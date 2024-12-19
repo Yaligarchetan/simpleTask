@@ -16,7 +16,7 @@ A simple task management application built with Node.js, Express, and MongoDB.
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Yaligarchetan/simpleTask.git
 Navigate to the project directory:
 
 
